@@ -1,10 +1,5 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Kautsar Hasby</h1>
 <h3 align="center">kautsarhasby</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kautsarhasby&label=Profile%20views&color=0e75b6&style=flat" alt="kautsarhasby" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kautsarhasby&theme=" alt="kautsarhasby" /></a> </p>
-
 - 🔭 I’m currently working on **Fullstack Development**
 - 🌱 I’m currently learning **Backend and System Architecture**
 
@@ -41,8 +36,6 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kautsarhasby&layout=compact&theme=" alt=kautsarhasby />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kautsarhasby&show_icons=true&locale=en&theme=" alt="kautsarhasby" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kautsarhasby&theme=" alt="kautsarhasby" /></p>
 
